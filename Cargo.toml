@@ -1,0 +1,8 @@
+[package]
+name = "hello-rust-js"
+version = "0.1.0"
+authors = ["K.J. Valencik <kjvalencik@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+libc = "0.2.4"

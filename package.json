@@ -1,0 +1,15 @@
+{
+	"name": "hello-rust-js",
+	"version": "0.1.0",
+	"description": "Hello Greeter in Rust with Node Native bindings",
+	"main": "lib/index.js",
+	"author": "K.J. Valencik <kjvalencik@gmail.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kjvalencik/hello-rust-js.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"neon-bridge": "^0.1.3"
+	}
+}
